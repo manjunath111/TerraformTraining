@@ -45,90 +45,175 @@ Anyone who want to learn Terraform from a practical perspective
 
 Modules Covered
 
-Infrastructure as Code (IaC)
+Infrastructure as Code (IaC) 
+
 Install Tools on MacOs, LinuxOS and WindowsOS
+
 Command Basics
+
 Language Syntax
+
 Settings Block
+
 Providers Block
+
 Multiple Providers usage
+
 Dependency Lock File Importance
+
 Resources Syntax and Behavior
+
 Resources Meta-Argument - depends_on
+
 Resources Meta-Argument - count
+
 Resources Meta-Argument - for_each
+
 Resources Meta-Argument - for_each Maps
+
 Resources Meta-Argument - for_each ToSet
+
 Resources Meta-Argument - for_each Chaining
+
 Azure Linux Virtual Machine with Terraform
+
 Resources Meta-Argument - lifecycle create_before_destroy
+
 Resources Meta-Argument - lifecycle prevent_destroy
+
 Resources Meta-Argument - lifecycle ignore_changes
+
 Input Variables - Basics
+
 Input Variables - Assign When Prompted
+
 Input Variables - Override default with cli var
+
 Input Variables - Override with environment variables
+
 Input Variables - Assign with terraform.tfvars
+
 Input Variables - Assign with tfvars var-file argument
+
 Input Variables - Assign with auto tfvars
+
 Input Variables - Lists
+
 Input Variables - Maps
+
 Input Variables - Validation Rules
+
 Input Variables - Sensitive Input Variables
+
 Input Variables - Structural Type Object
+
 Input Variables - Structural Type tuple
+
 Input Variables - Structural Type sets
+
 Output Values - Basics
+
 Output Values - With Count and Splat Expression
+
 Output Values - With for_each and for loops
+
 Local Values
+
 Conditional Expressions
+
 Datasources
+
 Backends - Remote State Storage
+
 Remote State Datasource
+
 State Commands
+
 Terraform Apply -refresh-only Command
+
 CLI Workspaces with local backend
+
 CLI Workspaces with remote backend
+
 File Provisioner
+
 local-exec Provisioner
+
 remote-exec Provisioner
+
 Null Resource
+
 State Import
+
 Modules from Public Registry
+
 Terraform Azure Static Website
+
 Build Local Module
+
 Publish Modules to Terraform Public Registry
+
 Module Sources
+
 Terraform Cloud - VCS-Driven Workflow
+
 Terraform Cloud - CLI-Driven Workflow
+
 Terraform Cloud - Share modules in private module registry
+
 Migrate State to Terraform Cloud
+
 Basic Sentinel & Cost Control Policies
+
 Foundational Sentinel Policies
+
 Dynamic Blocks
+
 Terraform Debug
+
 Override Files
+
 External Provider Basic Demo
+
 External Provider Integrated Demo
+
 CLI Config File on MacOS and Linux
+
 CLI Config File on WindowsOS
+
 Manage Providers
+
 Terraform Functions
+
 Terraform Functions Used
+
 element() function
+
 file() function
+
 filebase64() function
+
 toset() function
+
 length() function
+
 lookup() function
+
 substr() function
+
 contains() function
+
 lower() function
+
 upper() function
+
 regex() function
+
 can() function
+
 keys() function
+
 values() function
+
 sum() function
 
